@@ -91,8 +91,8 @@ Sub OnClick(ByVal Item)
             objExcelApp.Worksheets(sheetname).cells(2,3).value = oRs.Fields(2).Name
             objExcelApp.Worksheets(sheetname).cells(2,4).value = oRs.Fields(3).Name
             objExcelApp.Worksheets(sheetname).cells(2,5).value = oRs.Fields(4).Name
-        oRs.MoveFirst  
-        i = 3  
+            oRs.MoveFirst  
+            i = 3  
         Do While Not oRs.EOF                              
             objExcelApp.Worksheets(sheetname).cells(i,1).value = oRs.Fields(0).Value
             'objExcelApp.Worksheets(sheetname).cells(i,2).value = GetLocalDate(oRs.Fields(1).Value) 
