@@ -1,4 +1,4 @@
-### 一直想研究下WinCC的报表展示，最近正好有时间，就花了两天的时间跟着论坛学习起来啦~
+### WinCC的报表实现，前两个可以在西门子论坛地址里找到
 ### [西门子论坛地址](http://www.ad.siemens.com.cn/club/bbs/post.aspx?a_id=1364128&b_id=5&s_id=0&num=36&type=elite#)
 ### 下面是学习成果，里面一小部分代码有修改，并且实际执行遇到的问题也列了出来。有了这两个基础，只要修改其中的部分代码即可实现定制化报表需求。
 - [WinCC & Excel](https://github.com/DraculaXly/PLC/tree/master/WinCC%20%26%20Excel)
