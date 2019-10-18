@@ -7,3 +7,5 @@
 - [WinCC & ListView](https://github.com/DraculaXly/PLC/tree/master/WinCC%20%26%20ListView)
   - 这个主要是用WinCC的Active X控件，将过程归档值通过VB脚本读取出来，展示在ListView上。
   - 这个实际执行过程时，ListView的View属性需要设置为3，当然了，也可以通过脚本赋值。
+- [WinCC & UserArchieve](https://github.com/DraculaXly/PLC/tree/master/WinCC%20%26%20UserArchieve)
+  - 每天自动导出UA里面的数据并清空，并自动恢复到之前页面
